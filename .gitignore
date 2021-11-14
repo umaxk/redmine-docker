@@ -1,0 +1,4 @@
+./storage/docker_redmine-plugins
+./storage/docker_redmine-themes
+./storage/docker_redmine-data
+./storage/postgresql-data
