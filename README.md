@@ -1,7 +1,9 @@
 # Redmine in docker
+## install:
 ```
-install: docker-compose up -d
+docker-compose up -d
 ```
+redmine will be available by address 
 ```
-redmine will be available by address http://127.0.0.1:8091
+http://127.0.0.1:8091
 ```
